@@ -3,4 +3,4 @@
 
 - https://github.com/th100129/image-video-to-vr
 - https://github.com/th100129/plant_yolov5_model
--https://github.com/th100129/voiceDetection 
+- https://github.com/th100129/voiceDetection 
