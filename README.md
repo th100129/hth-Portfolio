@@ -5,7 +5,8 @@
 ### - Python 기반 딥러닝 모델을 활용한 영상·이미지 위조 여부 판별 시스템 구축
 ### - 실제 딥페이크 데이터셋 기반 학습 및 성능 평가 수행
 ### - 보안 분야 적용 가능성 분석 및 실험 결과 정리
-### [repo] https://github.com/th100129/image-video-to-vr
+### [repo] https://github.com/th100129/image-video-to-vr  
+
 
 ## Unity 게임 개발 프로젝트 (2025.03 ~ 2025.06)
 ### - 'Exit 8' 유사 공포 퍼즐 게임 기획·개발
