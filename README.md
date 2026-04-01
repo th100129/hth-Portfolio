@@ -8,11 +8,12 @@
 ### [repo] https://github.com/th100129/image-video-to-vr  
 
     
-## Unity 게임 개발 프로젝트 (2025.03 ~ 2025.06)
-### - 'Exit 8' 유사 공포 퍼즐 게임 기획·개발
-### - Unity 기반 캐릭터 이동, 충돌 처리, UI/UX 시스템 설계
-### - C# 스크립트를 활용한 게임 로직 및 이벤트 처리 구현
-### [repo]  https://github.com/th100129/Exitroom
+## Stable Diffusion 기반 이미지 생성 최적화 (2025.09 ~ 2025.12)
+### - 한국 전통 문양 데이터셋 구축 및 Stable Diffusion XL 파인튜닝
+### - 생성 속도 20~30초 → 18초 단축 (최대 60% 개선)
+### - LLM(Llama3) 기반 프롬프트 자동 생성 및 최적화 파이프라인 구축
+### - LLM(Llama3) 기반 프롬프트 자동 생성 및 최적화 파이프라인 구축
+### [repo] https://github.com/th100129/sdxl-korean-pattern-generator
 
 ## YOLO 기반 식물 이미지 판별 앱 개발 (2025.07 ~ 2025.08)
 ### - YOLOv5 기반 실내 식물(몬스테라, 바질, 토마토 등) 분류 모델 구축
