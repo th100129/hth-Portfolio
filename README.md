@@ -88,6 +88,7 @@ LLM 기반 사용자 의도 분석, 임베딩 검색, 리랭킹, 룰 기반 재�
 `Python` `LLM API` `Embedding` `Reranker` `BM25` `Qdrant` `PostgreSQL` `Docker` `Kubernetes` `GitLab CI/CD`
 
 **Repository:** [GitLab Repository](https://gitlab.com/book-curation/book-curation)
+**Live Demo:** [🌐 서비스 바로가기](https://book.taeo-dev.com/)
 
 </details>
 
