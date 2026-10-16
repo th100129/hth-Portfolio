@@ -54,6 +54,7 @@ HCLT 2026 · Poster Accept
 ### Paper
 
 📄 [논문 PDF 보기](./papers/HCLT2026_paper.pdf)
+🖼️ [학회 포스터 보기](./papers/HCLT2026_poster.pdf)
 
 </details>
 
