@@ -51,7 +51,9 @@ HCLT 2026 · Poster Accept
 
 `Python` `PyTorch` `Hugging Face Transformers` `PEFT` `DoRA` `VLM` `OCR` `RAG` `Beam Search` `TTA`
 
-**Repository:** 링크 추가 예정  
+### Paper
+
+📄 [논문 PDF 보기](./papers/HCLT2026_paper.pdf)
 
 </details>
 
@@ -239,4 +241,3 @@ LLM 기반 사용자 의도 분석, 임베딩 검색, 리랭킹, 룰 기반 재�
 
 ---
 
-> 한국 문화 멀티모달 QA 프로젝트의 Repository 링크는 추후 추가 예정입니다.
